@@ -1,0 +1,14 @@
+C:\Users\jshan\source\repos\If_Conditionals\bin\Debug\net8.0\If_Conditionals.exe
+C:\Users\jshan\source\repos\If_Conditionals\bin\Debug\net8.0\If_Conditionals.deps.json
+C:\Users\jshan\source\repos\If_Conditionals\bin\Debug\net8.0\If_Conditionals.runtimeconfig.json
+C:\Users\jshan\source\repos\If_Conditionals\bin\Debug\net8.0\If_Conditionals.dll
+C:\Users\jshan\source\repos\If_Conditionals\bin\Debug\net8.0\If_Conditionals.pdb
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.AssemblyInfoInputs.cache
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.AssemblyInfo.cs
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.dll
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\refint\If_Conditionals.dll
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.pdb
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\If_Conditionals.genruntimeconfig.cache
+C:\Users\jshan\source\repos\If_Conditionals\obj\Debug\net8.0\ref\If_Conditionals.dll

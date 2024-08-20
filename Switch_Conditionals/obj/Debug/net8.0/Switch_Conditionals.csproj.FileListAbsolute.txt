@@ -1,0 +1,14 @@
+C:\Users\jshan\source\repos\Switch_Conditionals\bin\Debug\net8.0\Switch_Conditionals.exe
+C:\Users\jshan\source\repos\Switch_Conditionals\bin\Debug\net8.0\Switch_Conditionals.deps.json
+C:\Users\jshan\source\repos\Switch_Conditionals\bin\Debug\net8.0\Switch_Conditionals.runtimeconfig.json
+C:\Users\jshan\source\repos\Switch_Conditionals\bin\Debug\net8.0\Switch_Conditionals.dll
+C:\Users\jshan\source\repos\Switch_Conditionals\bin\Debug\net8.0\Switch_Conditionals.pdb
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.AssemblyInfoInputs.cache
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.AssemblyInfo.cs
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.dll
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\refint\Switch_Conditionals.dll
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.pdb
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\Switch_Conditionals.genruntimeconfig.cache
+C:\Users\jshan\source\repos\Switch_Conditionals\obj\Debug\net8.0\ref\Switch_Conditionals.dll

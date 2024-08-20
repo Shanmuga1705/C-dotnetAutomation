@@ -1,0 +1,14 @@
+C:\Users\jshan\source\repos\ForLoops\bin\Debug\net8.0\ForLoops.exe
+C:\Users\jshan\source\repos\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+C:\Users\jshan\source\repos\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+C:\Users\jshan\source\repos\ForLoops\bin\Debug\net8.0\ForLoops.dll
+C:\Users\jshan\source\repos\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.dll
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+C:\Users\jshan\source\repos\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll

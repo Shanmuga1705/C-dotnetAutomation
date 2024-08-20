@@ -1,0 +1,15 @@
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.AssemblyInfoInputs.cache
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.AssemblyInfo.cs
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\jshan\source\repos\Comments\bin\Debug\net8.0\Comments.exe
+C:\Users\jshan\source\repos\Comments\bin\Debug\net8.0\Comments.deps.json
+C:\Users\jshan\source\repos\Comments\bin\Debug\net8.0\Comments.runtimeconfig.json
+C:\Users\jshan\source\repos\Comments\bin\Debug\net8.0\Comments.dll
+C:\Users\jshan\source\repos\Comments\bin\Debug\net8.0\Comments.pdb
+C:\Users\jshan\source\repos\Comments\bin\Debug\net8.0\Comments.xml
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.dll
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\refint\Comments.dll
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.pdb
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\Comments.genruntimeconfig.cache
+C:\Users\jshan\source\repos\Comments\obj\Debug\net8.0\ref\Comments.dll

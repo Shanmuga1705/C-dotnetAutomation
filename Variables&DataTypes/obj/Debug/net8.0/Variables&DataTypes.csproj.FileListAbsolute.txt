@@ -1,0 +1,14 @@
+C:\Users\jshan\source\repos\Variables&DataTypes\bin\Debug\net8.0\Variables&DataTypes.exe
+C:\Users\jshan\source\repos\Variables&DataTypes\bin\Debug\net8.0\Variables&DataTypes.deps.json
+C:\Users\jshan\source\repos\Variables&DataTypes\bin\Debug\net8.0\Variables&DataTypes.runtimeconfig.json
+C:\Users\jshan\source\repos\Variables&DataTypes\bin\Debug\net8.0\Variables&DataTypes.dll
+C:\Users\jshan\source\repos\Variables&DataTypes\bin\Debug\net8.0\Variables&DataTypes.pdb
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.AssemblyInfoInputs.cache
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.AssemblyInfo.cs
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.dll
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\refint\Variables&DataTypes.dll
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.pdb
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\Variables&DataTypes.genruntimeconfig.cache
+C:\Users\jshan\source\repos\Variables&DataTypes\obj\Debug\net8.0\ref\Variables&DataTypes.dll
